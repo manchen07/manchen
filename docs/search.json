@@ -18,14 +18,14 @@
     "href": "software/index.html#scdhlm",
     "title": "Software",
     "section": "scdhlm",
-    "text": "scdhlm\nR package and web application\nTools for estimating hierarchical linear models and between-case standardized mean differences from single-case designs. These effect sizes support comparisons with results from between-subjects randomized experiments. The package accommodates treatment reversal, multiple baseline, and multiple probe designs, including more complex multilevel structures.\nThe accompanying web application provides an interactive calculator for between-case standardized mean differences.\nPackage coauthors (CV citation): James E. Pustejovsky, Man Chen, and Bethany H. Bhat.\nWeb application coauthors (CV citation): James E. Pustejovsky, Man Chen, Bethany H. Bhat, and Paulina Grekov.\n\n Documentation  CRAN  GitHub  Open web app"
+    "text": "scdhlm\nR package and web application\nTools for estimating hierarchical linear models and between-case standardized mean differences from single-case designs. These effect sizes support comparisons with results from between-subjects randomized experiments. The package accommodates treatment reversal, multiple baseline, and multiple probe designs, including more complex multilevel structures.\nThe accompanying web application provides an interactive calculator for between-case standardized mean differences.\nPackage coauthors: James E. Pustejovsky, Man Chen, and Bethany H. Bhat.\nWeb application coauthors: James E. Pustejovsky, Man Chen, Bethany H. Bhat, and Paulina Grekov.\n\n Documentation  CRAN  GitHub  Open web app"
   },
   {
     "objectID": "software/index.html#singlecasees",
     "href": "software/index.html#singlecasees",
     "title": "Software",
     "section": "SingleCaseES",
-    "text": "SingleCaseES\nR package and web application\nA toolkit for calculating effect sizes for single-case designs, including non-overlap measures, within-case standardized mean differences, and response ratios. Standard errors and confidence intervals are available for measures with known sampling distributions.\nThe single-case effect size calculator offers an interactive interface to these measures. The project documentation recommends the hosted app for demonstrations; for research, install the R package and run its interface locally in RStudio.\nPackage and web application coauthors (CV citations): James E. Pustejovsky, Man Chen, Paulina Grekov, and Daniel M. Swan.\n\n Documentation  CRAN  GitHub  Open web app"
+    "text": "SingleCaseES\nR package and web application\nA toolkit for calculating effect sizes for single-case designs, including non-overlap measures, within-case standardized mean differences, and response ratios. Standard errors and confidence intervals are available for measures with known sampling distributions.\nThe single-case effect size calculator offers an interactive interface to these measures. The project documentation recommends the hosted app for demonstrations; for research, install the R package and run its interface locally in RStudio.\nPackage and web application coauthors: James E. Pustejovsky, Man Chen, Paulina Grekov, and Daniel M. Swan.\n\n Documentation  CRAN  GitHub  Open web app"
   },
   {
     "objectID": "publications/index.html",
