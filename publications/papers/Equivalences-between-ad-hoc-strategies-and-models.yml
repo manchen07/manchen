@@ -1,0 +1,17 @@
+# Citation and links checked against https://jepusto.com/publications/ on 2026-10-23
+- title: "Equivalences between ad hoc strategies and meta-analytic models for dependent effect sizes"
+  work-type: methodological
+  date: 2024-03-05
+  authors: "James E. Pustejovsky, Man Chen"
+  journal: "Journal of Educational and Behavioral Statistics, 49 (6), 1013-1043."
+  links:
+    - text: "Journal"
+      href: "https://doi.org/10.3102/10769986241232524"
+    - text: "Supplementary materials"
+      href: "https://osf.io/9u52e/"
+    - text: "Pre-Print"
+      href: "https://osf.io/preprints/metaarxiv/pw54r/"
+    - text: "Code"
+      href: "https://osf.io/9u52e/"
+    - text: "Data"
+      href: "https://osf.io/9u52e/"

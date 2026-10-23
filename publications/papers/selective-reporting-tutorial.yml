@@ -1,0 +1,17 @@
+# Citation and links checked against https://jepusto.com/publications/ on 2026-10-23
+- title: "Addressing selective reporting bias in meta-analysis of dependent effect sizes: A tutorial in R"
+  work-type: methodological
+  date: 2026-07-07
+  authors: "Man Chen, James E. Pustejovsky"
+  journal: "Psychological Methods, Advance online publication."
+  links:
+    - text: "Journal"
+      href: "https://doi.org/10.1037/met0000841"
+    - text: "Supplementary materials"
+      href: "https://osf.io/m8qc6/"
+    - text: "Pre-Print"
+      href: "https://osf.io/preprints/psyarxiv/83v52_v3"
+    - text: "Code"
+      href: "https://osf.io/m8qc6/"
+    - text: "Data"
+      href: "https://osf.io/m8qc6/"

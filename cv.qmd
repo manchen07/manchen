@@ -1,0 +1,5 @@
+---
+title: Curriculum vitae
+---
+
+[Download my curriculum vitae (PDF)](files/Chen-CV-Github.pdf){.btn .btn-outline-primary}

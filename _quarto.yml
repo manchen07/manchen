@@ -1,0 +1,51 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - contact.qmd
+    - cv.qmd
+    - publications/index.qmd
+    - teaching/index.qmd
+    - software/index.qmd
+  resources:
+    - .nojekyll
+
+website:
+  title: "Man Chen"
+  site-url: https://manchen07.github.io/manchen/
+  repo-url: https://github.com/manchen07/manchen
+  navbar:
+    background: light
+    left:
+      - text: CV
+        href: /files/Chen-CV-Github.pdf
+      - href: index.qmd
+        text: Home
+      - href: publications/index.qmd
+        text: Research
+      - href: teaching/index.qmd
+        text: Teaching
+      - href: software/index.qmd
+        text: Software
+    right:
+      - href: contact.qmd
+        text: Contact
+      - icon: github
+        href: https://github.com/manchen07
+        aria-label: GitHub profile
+  page-footer:
+    left: "Built with Quarto"
+    right:
+      - text: Source
+        href: https://github.com/manchen07/manchen
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

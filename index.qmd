@@ -1,0 +1,66 @@
+---
+title: "Man Chen"
+image: chen.jpg
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: envelope
+      href: 'mailto:man.chen@austin.utexas.edu'
+    - icon: github
+      href: https://github.com/manchen07
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?user=p9uPycYAAAAJ
+    - text: "{{< ai osf >}}"
+      href: https://osf.io/cz7q9/
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0000-0002-8202-393X
+    - text: "{{< fa brands bluesky >}}"
+      href: https://bsky.app/profile/man-chen.bsky.social
+    - icon: linkedin
+      href: https://www.linkedin.com/in/man-chen-256b32138
+toc: false
+
+execute: 
+  freeze: false
+  echo: false
+  warning: false
+---
+
+:::::{#about}
+
+I am a quantitative methodologist and assistant professor in the [Department of Educational Psychology](https://education.utexas.edu/departments/educational-psychology/) at [University of Texas at Austin](https://www.utexas.edu/).
+
+My research focuses on developing and evaluating statistical methods to address scientific questions in education and psychology. I am particularly interested in solving methodological challenges that arise when applying meta-analytic techniques to real-world datasets, including dependent effect sizes, selective reporting and publication bias, and design-comparable effect sizes.
+
+::::{.grid}
+
+::: {.g-col-6}
+
+## Education
+
+- PhD in Quantitative Methods | 2024 <br> [University of Wisconsin-Madison]{style='color:gray;'}
+
+- MS in Statistics | 2023 <br> [University of Wisconsin-Madison]{style='color:gray;'}
+
+- MEd in Quantitative Methods | 2018 <br> [University of Texas at Austin]{style='color:gray;'}
+
+:::
+
+::: {.g-col-6}
+
+## Interests
+
+- Meta-analysis
+- Publication bias
+- Single case experimental designs
+- Multilevel modeling
+
+:::
+
+::::
+
+:::::

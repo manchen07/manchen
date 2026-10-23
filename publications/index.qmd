@@ -1,0 +1,46 @@
+---
+title: Publications and Preprints
+toc: true
+toc-title: Publications
+toc-location: right
+listing:
+  - id: methodological
+    contents: papers/*.yml
+    include:
+      work-type: methodological
+    template: _publications.ejs.md
+    sort: "date desc"
+    filter-ui: true
+    page-size: 20
+    fields: [date, title, authors, journal]
+    field-types:
+      date: date
+    field-required: [title, date, authors, work-type]
+    date-format: "YYYY"
+  - id: applied
+    contents: papers/*.yml
+    include:
+      work-type: applied
+    template: _publications.ejs.md
+    sort: "date desc"
+    filter-ui: true
+    page-size: 20
+    fields: [date, title, authors, journal]
+    field-types:
+      date: date
+    field-required: [title, date, authors, work-type]
+    date-format: "YYYY"
+---
+
+My research focuses on developing and evaluating statistical methods to address methodological challenges that arise when applying meta-analytic techniques to real-world datasets, including dependent effect sizes, selective reporting and publication bias, and design-comparable effect sizes. I am also interested in statistical methods for single-case experimental designs.
+
+## Methodological work
+
+::: {#methodological}
+:::
+
+## Applied work
+
+::: {#applied}
+:::
+

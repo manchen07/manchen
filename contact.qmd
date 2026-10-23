@@ -1,0 +1,25 @@
+---
+title: "Contact"
+execute:
+  freeze: false
+---
+
+{{<fa envelope>}} [man.chen@austin.utexas.edu](mailto:man.chen@austin.utexas.edu)
+
+<!-- {{<fa phone>}} XXX-XXX-XXXX -->
+
+{{<fa location-dot>}} SZB 5.308L, 1912 SPEEDWAY, AUSTIN, TX 78712
+
+```{r}
+#| echo: false
+#| warning: false
+
+library(leaflet)
+leaflet() |>
+  addTiles() |>  # Add default OpenStreetMap map tiles
+  addMarkers(
+    lat=30.28168, 
+    lng=-97.73876
+  )
+
+```

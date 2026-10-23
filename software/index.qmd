@@ -1,0 +1,57 @@
+---
+title: Software
+toc: true
+toc-title: Projects
+toc-location: right
+---
+
+I contribute to open-source statistical software for multilevel modeling and effect size estimation in single-case experimental designs.
+
+## lmeInfo
+
+**R package**
+
+Tools for computing analytic derivatives and information matrices for linear mixed-effects and generalized least squares models fitted with `nlme`. The package supports inference for variance components and estimation of design-comparable standardized mean differences.
+
+**Coauthors:** James E. Pustejovsky and **Man Chen**.
+
+::: {.software-links}
+[{{< fa book >}} Documentation](https://jepusto.github.io/lmeInfo/){.btn .btn-outline-primary}
+[{{< fa brands r-project >}} CRAN](https://cran.r-project.org/package=lmeInfo){.btn .btn-outline-primary}
+[{{< fa brands github >}} GitHub](https://github.com/jepusto/lmeInfo){.btn .btn-outline-primary}
+:::
+
+## scdhlm
+
+**R package and web application**
+
+Tools for estimating hierarchical linear models and between-case standardized mean differences from single-case designs. These effect sizes support comparisons with results from between-subjects randomized experiments. The package accommodates treatment reversal, multiple baseline, and multiple probe designs, including more complex multilevel structures.
+
+The accompanying web application provides an interactive calculator for between-case standardized mean differences.
+
+**Package coauthors:** James E. Pustejovsky, **Man Chen**, and Bethany H. Bhat.  
+**Web application coauthors:** James E. Pustejovsky, **Man Chen**, Bethany H. Bhat, and Paulina Grekov.
+
+::: {.software-links}
+[{{< fa book >}} Documentation](https://jepusto.github.io/scdhlm/){.btn .btn-outline-primary}
+[{{< fa brands r-project >}} CRAN](https://cran.r-project.org/package=scdhlm){.btn .btn-outline-primary}
+[{{< fa brands github >}} GitHub](https://github.com/jepusto/scdhlm){.btn .btn-outline-primary}
+[{{< fa arrow-up-right-from-square >}} Open web app](https://jepusto.shinyapps.io/scdhlm/){.btn .btn-outline-primary}
+:::
+
+## SingleCaseES
+
+**R package and web application**
+
+A toolkit for calculating effect sizes for single-case designs, including non-overlap measures, within-case standardized mean differences, and response ratios. Standard errors and confidence intervals are available for measures with known sampling distributions.
+
+The single-case effect size calculator offers an interactive interface to these measures. The project documentation recommends the hosted app for demonstrations; for research, install the R package and run its interface locally in RStudio.
+
+**Package and web application coauthors:** James E. Pustejovsky, **Man Chen**, Paulina Grekov, and Daniel M. Swan.
+
+::: {.software-links}
+[{{< fa book >}} Documentation](https://jepusto.github.io/SingleCaseES/){.btn .btn-outline-primary}
+[{{< fa brands r-project >}} CRAN](https://cran.r-project.org/package=SingleCaseES){.btn .btn-outline-primary}
+[{{< fa brands github >}} GitHub](https://github.com/jepusto/SingleCaseES){.btn .btn-outline-primary}
+[{{< fa arrow-up-right-from-square >}} Open web app](https://jepusto.shinyapps.io/SCD-effect-sizes/){.btn .btn-outline-primary}
+:::

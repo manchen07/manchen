@@ -1,0 +1,17 @@
+# Copy this file into papers/ and give it a unique name, e.g. my-new-paper.yml.
+# This template stays outside papers/ so it will not appear on the website.
+- title: "Your paper title"
+  work-type: methodological # Choose methodological or applied.
+  date: 2026-10-23
+  authors: "Man Chen, Coauthor Name"
+  journal: "Journal Name, volume(issue), pages."
+  links:
+    - text: "Journal"
+      href: "https://doi.org/REPLACE-ME"
+    - text: "Preprint"
+      href: "https://osf.io/REPLACE-ME/"
+    - text: "Code"
+      href: "https://github.com/REPLACE-ME"
+  # Delete links that do not apply. For a preprint, use journal: "Preprint".
+  # Optional: remove the # below to add a collapsible abstract.
+  # abstract: "Your abstract goes here."

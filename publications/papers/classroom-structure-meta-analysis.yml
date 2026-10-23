@@ -1,0 +1,14 @@
+# Source: files/Chen-CV-Github.pdf, Peer-Reviewed Journal Articles, page 2.
+# Uses the CV's citation year (2023); January 1 is a sorting placeholder.
+- title: "A meta-analysis of teachers’ provision of structure in the classroom and students’ academic competence beliefs, engagement, and achievement"
+  work-type: applied
+  date: 2023-01-01
+  authors: "E. A. Patall, N. Yates, J. Lee, Man Chen, B. H. Bhat, K. Lee, S. N. Beretvas, S. Lin, M. Yang, N. G. Jacobson, E. Harris, D. J. Hanson"
+  journal: "Educational Psychologist, 59(1), 42–70."
+  links:
+    - text: "Journal"
+      href: "https://doi.org/10.1080/00461520.2023.2274104"
+    - text: "Code"
+      href: "https://osf.io/v8p7s"
+    - text: "Data"
+      href: "https://osf.io/v8p7s"

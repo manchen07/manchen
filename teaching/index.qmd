@@ -1,0 +1,38 @@
+---
+title: Teaching
+title-block-banner: false
+format:
+  html:
+    title-block-style: none
+toc: true
+toc-title: Courses
+---
+
+I teach graduate courses in quantitative methods in the Department of Educational Psychology at The University of Texas at Austin. These courses connect statistical concepts with practical data analysis and programming in R.
+
+## Hierarchical Linear Modeling {#hlm}
+
+An introduction to multilevel models for nested and longitudinal data, such as students within schools and repeated measurements within individuals. Topics include random intercept and random slope models, longitudinal models, and multilevel generalized linear models. Students learn to select and fit appropriate models, interpret results, and communicate findings, with demonstrations in R.
+
+::: {.syllabus-links aria-label="Hierarchical Linear Modeling syllabi"}
+[{{< fa file-pdf >}} Fall 2026 syllabus](../files/syllabi/hlm-fall-2026.pdf){.btn .btn-outline-primary}
+[{{< fa file-pdf >}} Fall 2025 syllabus](../files/syllabi/hlm-fall-2025.pdf){.btn .btn-outline-primary}
+[{{< fa file-pdf >}} Fall 2024 syllabus](../files/syllabi/hlm-fall-2024.pdf){.btn .btn-outline-primary}
+:::
+
+## Correlation and Regression Methods {#regression}
+
+A foundation in the theory and application of correlation and regression methods. Students learn to specify, conduct, and interpret correlation analyses and regression models. Analyses and computing demonstrations use R.
+
+::: {.syllabus-links aria-label="Correlation and Regression Methods syllabi"}
+[{{< fa file-pdf >}} Fall 2026 syllabus](../files/syllabi/regression-fall-2026.pdf){.btn .btn-outline-primary}
+[{{< fa file-pdf >}} Fall 2025 syllabus](../files/syllabi/regression-fall-2025.pdf){.btn .btn-outline-primary}
+:::
+
+## Statistical Modeling and Simulation in R {#r-simulation}
+
+An advanced R course focuses on designing and implementing Monte Carlo simulation studies for methodological research (e.g., evaluating statistical methods) and empirical applications (e.g., conducting power analysis), debugging, functional and object-oriented programming, and an introduction to R package and Shiny app development with GitHub integration.
+
+::: {.syllabus-links aria-label="Statistical Modeling and Simulation in R syllabus"}
+[{{< fa file-pdf >}} Spring 2025 syllabus](../files/syllabi/r-simulation-spring-2025.pdf){.btn .btn-outline-primary}
+:::

@@ -1,0 +1,8 @@
+---
+title: "Welcome to my website"
+date: 2026-10-22
+categories: [News]
+description: "A place for research, resources, and updates."
+---
+
+This is a sample post. Replace it with your own introduction before publishing.

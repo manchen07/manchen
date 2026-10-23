@@ -1,0 +1,17 @@
+# Citation and links checked against https://jepusto.com/publications/ on 2026-10-23
+- title: "Multi-level meta-analysis of single-case experimental designs using robust variance estimation"
+  work-type: methodological
+  date: 2024-09-26
+  authors: "Man Chen, James E. Pustejovsky"
+  journal: "Psychological Methods, 29 (3), 537-560."
+  links:
+    - text: "Journal"
+      href: "https://doi.org/10.1037/met0000510"
+    - text: "Supplementary materials"
+      href: "https://osf.io/zypsh"
+    - text: "Pre-Print"
+      href: "https://psyarxiv.com/59h32/"
+    - text: "Code"
+      href: "https://osf.io/zypsh"
+    - text: "Data"
+      href: "https://osf.io/zypsh"

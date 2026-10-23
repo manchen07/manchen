@@ -1,0 +1,16 @@
+# Source: files/Chen-CV-Github.pdf, Peer-Reviewed Journal Articles, page 1.
+# Only the year is given in the CV; January 1 is a sorting placeholder.
+- title: "How accurate are computer-adaptive reading screeners? A systematic review and meta-analysis of validity and classification accuracy"
+  work-type: applied
+  date: 2026-01-01
+  authors: "L. Shen, Y. Huang, Z. Ma, Man Chen, C. Ma, N. H. Clemens"
+  journal: "School Psychology Review, 1–21."
+  links:
+    - text: "Journal"
+      href: "https://doi.org/10.1080/2372966X.2026.2633597"
+    - text: "Supplementary materials"
+      href: "https://osf.io/v9y5p"
+    - text: "Code"
+      href: "https://osf.io/v9y5p"
+    - text: "Data"
+      href: "https://osf.io/v9y5p"

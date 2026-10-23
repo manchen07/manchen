@@ -1,0 +1,12 @@
+# Source: files/Chen-CV-Github.pdf, Peer-Reviewed Journal Articles, page 3.
+# Only the year is given in the CV; January 1 is a sorting placeholder.
+- title: "The effectiveness of hope-fostering interventions in palliative care: A systematic review and meta-analysis"
+  work-type: applied
+  date: 2021-01-01
+  authors: "N. Salamanca-Balen, T. V. Merluzzi, Man Chen"
+  journal: "Palliative Medicine, 35(4), 710–728."
+  links:
+    - text: "Journal"
+      href: "https://doi.org/10.1177/0269216321994728"
+    - text: "Supplementary materials"
+      href: "https://doi.org/10.1177/0269216321994728"

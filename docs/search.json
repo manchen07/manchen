@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "software/index.html",
+    "href": "software/index.html",
+    "title": "Software",
+    "section": "",
+    "text": "I contribute to open-source statistical software for multilevel modeling and effect size estimation in single-case experimental designs."
+  },
+  {
+    "objectID": "software/index.html#lmeinfo",
+    "href": "software/index.html#lmeinfo",
+    "title": "Software",
+    "section": "lmeInfo",
+    "text": "lmeInfo\nR package\nTools for computing analytic derivatives and information matrices for linear mixed-effects and generalized least squares models fitted with nlme. The package supports inference for variance components and estimation of design-comparable standardized mean differences.\nCoauthors: James E. Pustejovsky and Man Chen.\n\n Documentation  CRAN  GitHub"
+  },
+  {
+    "objectID": "software/index.html#scdhlm",
+    "href": "software/index.html#scdhlm",
+    "title": "Software",
+    "section": "scdhlm",
+    "text": "scdhlm\nR package and web application\nTools for estimating hierarchical linear models and between-case standardized mean differences from single-case designs. These effect sizes support comparisons with results from between-subjects randomized experiments. The package accommodates treatment reversal, multiple baseline, and multiple probe designs, including more complex multilevel structures.\nThe accompanying web application provides an interactive calculator for between-case standardized mean differences.\nPackage coauthors (CV citation): James E. Pustejovsky, Man Chen, and Bethany H. Bhat.\nWeb application coauthors (CV citation): James E. Pustejovsky, Man Chen, Bethany H. Bhat, and Paulina Grekov.\n\n Documentation  CRAN  GitHub  Open web app"
+  },
+  {
+    "objectID": "software/index.html#singlecasees",
+    "href": "software/index.html#singlecasees",
+    "title": "Software",
+    "section": "SingleCaseES",
+    "text": "SingleCaseES\nR package and web application\nA toolkit for calculating effect sizes for single-case designs, including non-overlap measures, within-case standardized mean differences, and response ratios. Standard errors and confidence intervals are available for measures with known sampling distributions.\nThe single-case effect size calculator offers an interactive interface to these measures. The project documentation recommends the hosted app for demonstrations; for research, install the R package and run its interface locally in RStudio.\nPackage and web application coauthors (CV citations): James E. Pustejovsky, Man Chen, Paulina Grekov, and Daniel M. Swan.\n\n Documentation  CRAN  GitHub  Open web app"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications and Preprints",
+    "section": "",
+    "text": "My research focuses on developing and evaluating statistical methods to address methodological challenges that arise when applying meta-analytic techniques to real-world datasets, including dependent effect sizes, selective reporting and publication bias, and design-comparable effect sizes. I am also interested in statistical methods for single-case experimental designs."
+  },
+  {
+    "objectID": "publications/index.html#methodological-work",
+    "href": "publications/index.html#methodological-work",
+    "title": "Publications and Preprints",
+    "section": "Methodological work",
+    "text": "Methodological work\n\n\n    \n      \n      \n    \n\n\n\n  \n    2026\n    \n      Evaluating methods for testing publication bias in meta-analyses with confounding covariates: A simulation study\n      Man Chen\n      Behavior Research Methods, 58, 330.\n      \n      \n      \n         Journal\n      \n         Supplementary materials\n      \n         Pre-Print\n      \n         Code\n      \n         Data\n      \n      \n      \n      \n    \n  \n\n  \n    2026\n    \n      Addressing selective reporting bias in meta-analysis of dependent effect sizes: A tutorial in R\n      Man Chen, James E. Pustejovsky\n      Psychological Methods, Advance online publication.\n      \n      \n      \n         Journal\n      \n         Supplementary materials\n      \n         Pre-Print\n      \n         Code\n      \n         Data\n      \n      \n      \n      \n    \n  \n\n  \n    2025\n    \n      Adapting methods for correcting selective reporting bias in meta-analysis of dependent effect sizes\n      Man Chen, James E. Pustejovsky\n      Psychological Methods, Advance online publication.\n      \n      \n      \n         Journal\n      \n         Supplementary materials\n      \n         Pre-Print\n      \n         Code\n      \n         Data\n      \n      \n      \n      \n    \n  \n\n  \n    2024\n    \n      Multi-level meta-analysis of single-case experimental designs using robust variance estimation\n      Man Chen, James E. Pustejovsky\n      Psychological Methods, 29 (3), 537-560.\n      \n      \n      \n         Journal\n      \n         Supplementary materials\n      \n         Pre-Print\n      \n         Code\n      \n         Data\n      \n      \n      \n      \n    \n  \n\n  \n    2024\n    \n      Equivalences between ad hoc strategies and meta-analytic models for dependent effect sizes\n      James E. Pustejovsky, Man Chen\n      Journal of Educational and Behavioral Statistics, 49 (6), 1013-1043.\n      \n      \n      \n         Journal\n      \n         Supplementary materials\n      \n         Pre-Print\n      \n         Code\n      \n         Data\n      \n      \n      \n      \n    \n  \n\n  \n    2023\n    \n      Between-case standardized mean differences: Flexible methods for single-case designs\n      Man Chen, James E. Pustejovsky, David A. Klingbeil, Ethan R. Norman\n      Journal of School Psychology, 98 , 16-38.\n      \n      \n      \n         Journal\n      \n         Supplementary materials\n      \n         Pre-Print\n      \n         Code\n      \n         Data\n      \n      \n      \n      \n    \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/index.html#applied-work",
+    "href": "publications/index.html#applied-work",
+    "title": "Publications and Preprints",
+    "section": "Applied work",
+    "text": "Applied work\n\n\n    \n      \n      \n    \n\n\n\n  \n    2026\n    \n      How accurate are computer-adaptive reading screeners? A systematic review and meta-analysis of validity and classification accuracy\n      L. Shen, Y. Huang, Z. Ma, Man Chen, C. Ma, N. H. Clemens\n      School Psychology Review, 1–21.\n      \n      \n      \n         Journal\n      \n         Supplementary materials\n      \n         Code\n      \n         Data\n      \n      \n      \n      \n    \n  \n\n  \n    2025\n    \n      Associations between coping and suicide risk among emerging adults of Asian descent\n      A. N. Shaikh, Man Chen, J. Dhar, J. Yang, K. Sadek, M. Kim Chang, L.-C. Hsu, R. Shilam, A. S. Varghese, C. Chang\n      The Professional Counselor, 15(4), 246–262.\n      \n      \n      \n         Journal\n      \n      \n      \n      \n    \n  \n\n  \n    2024\n    \n      Relationships between experiences of autonomy and well(ill)-being for K-12 Youth: A meta-analysis\n      A. Vite, E. A. Patall, Man Chen\n      Educational Psychology Review, 36, 127.\n      \n      \n      \n         Journal\n      \n         Supplementary materials\n      \n      \n      \n      \n    \n  \n\n  \n    2023\n    \n      Systematic review of variables related to instruction in augmentative and alternative communication implementation: Group and single-case design\n      Joe Reichle, James E. Pustejovsky, Kimberly J. Vannest, Margaret Foster, Lauren M. Pierson, Sanikan Wattanawongwan, Man Chen, Marcus Fuller, April N. Haas, Bethany H. Bhat, Mary R. Sallese, S. D. Smith, Valeria Yllades, Daira Rodriguez, Amara Yoro, Jay B. Ganz\n      American Journal of Speech-Language Pathology, 32 (4), 1734-1757.\n      \n      \n      \n         Journal\n      \n         Pre-Print\n      \n         Code\n      \n         Data\n      \n      \n      \n      \n    \n  \n\n  \n    2023\n    \n      A meta-analysis of teachers’ provision of structure in the classroom and students’ academic competence beliefs, engagement, and achievement\n      E. A. Patall, N. Yates, J. Lee, Man Chen, B. H. Bhat, K. Lee, S. N. Beretvas, S. Lin, M. Yang, N. G. Jacobson, E. Harris, D. J. Hanson\n      Educational Psychologist, 59(1), 42–70.\n      \n      \n      \n         Journal\n      \n         Code\n      \n         Data\n      \n      \n      \n      \n    \n  \n\n  \n    2022\n    \n      Augmentative and Alternative Communication intervention targets for school-aged participants with ASD and ID: A single-case systematic review and meta-analysis\n      Jay B. Ganz, James E. Pustejovsky, Joe Reichle, Kimberly J. Vannest, Margaret Foster, Marcus Fuller, Lauren M. Pierson, Sanikan Wattanawongwan, Amando Bernal, Man Chen, April N. Haas, Rachel Skov, S. D. Smith, Valeria Yllades\n      Review Journal of Autism and Developmental Disorders, 11 , 52-65.\n      \n      \n      \n         Journal\n      \n         Pre-Print\n      \n         Code\n      \n         Data\n      \n      \n      \n      \n    \n  \n\n  \n    2022\n    \n      Considering instructional contexts in AAC interventions for people with ASD and/or IDD experiencing complex communication needs: A single-case design meta-analysis\n      Jay B. Ganz, James E. Pustejovsky, Joe Reichle, Kimberly J. Vannest, Margaret Foster, April N. Haas, Lauren M. Pierson, Sanikan Wattanawongwan, Amando Bernal, Man Chen, Rachel Skov, S. D. Smith\n      Review Journal of Autism and Developmental Disorders, 10 , 615-629.\n      \n      \n      \n         Journal\n      \n         Pre-Print\n      \n         Code\n      \n         Data\n      \n      \n      \n      \n    \n  \n\n  \n    2022\n    \n      Participant characteristics predicting communication outcomes in AAC implementation for individuals with ASD and IDD: Meta-analysis\n      Jay B. Ganz, James E. Pustejovsky, Joe Reichle, Kimberly J. Vannest, Margaret Foster, Lauren M. Pierson, Sanikan Wattanawongwan, Amando Bernal, Man Chen, April N. Haas, Mary Rose Sallese, Rachel Skov, S. D. Smith\n      Augmentative and Alternative Communication, 39 (1), 7-22.\n      \n      \n      \n         Journal\n      \n         Pre-Print\n      \n         Code\n      \n         Data\n      \n      \n      \n      \n    \n  \n\n  \n    2021\n    \n      The effectiveness of hope-fostering interventions in palliative care: A systematic review and meta-analysis\n      N. Salamanca-Balen, T. V. Merluzzi, Man Chen\n      Palliative Medicine, 35(4), 710–728.\n      \n      \n      \n         Journal\n      \n         Supplementary materials\n      \n      \n      \n      \n    \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "man.chen@austin.utexas.edu\n\n SZB 5.308L, 1912 SPEEDWAY, AUSTIN, TX 78712"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Man Chen",
+    "section": "",
+    "text": "I am a quantitative methodologist and assistant professor in the Department of Educational Psychology at University of Texas at Austin.\nMy research focuses on developing and evaluating statistical methods to address scientific questions in education and psychology. I am particularly interested in solving methodological challenges that arise when applying meta-analytic techniques to real-world datasets, including dependent effect sizes, selective reporting and publication bias, and design-comparable effect sizes.\n\n\n\n\nPhD in Quantitative Methods | 2024  University of Wisconsin-Madison\nMS in Statistics | 2023  University of Wisconsin-Madison\nMEd in Quantitative Methods | 2018  University of Texas at Austin\n\n\n\n\n\nMeta-analysis\nPublication bias\nSingle case experimental designs\nMultilevel modeling"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Man Chen",
+    "section": "",
+    "text": "PhD in Quantitative Methods | 2024  University of Wisconsin-Madison\nMS in Statistics | 2023  University of Wisconsin-Madison\nMEd in Quantitative Methods | 2018  University of Texas at Austin"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Man Chen",
+    "section": "",
+    "text": "Meta-analysis\nPublication bias\nSingle case experimental designs\nMultilevel modeling"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download my curriculum vitae (PDF)"
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I teach graduate courses in quantitative methods in the Department of Educational Psychology at The University of Texas at Austin. These courses connect statistical concepts with practical data analysis and programming in R."
+  },
+  {
+    "objectID": "teaching/index.html#hlm",
+    "href": "teaching/index.html#hlm",
+    "title": "Teaching",
+    "section": "Hierarchical Linear Modeling",
+    "text": "Hierarchical Linear Modeling\nAn introduction to multilevel models for nested and longitudinal data, such as students within schools and repeated measurements within individuals. Topics include random intercept and random slope models, longitudinal models, and multilevel generalized linear models. Students learn to select and fit appropriate models, interpret results, and communicate findings, with demonstrations in R.\n\n Fall 2026 syllabus  Fall 2025 syllabus  Fall 2024 syllabus"
+  },
+  {
+    "objectID": "teaching/index.html#regression",
+    "href": "teaching/index.html#regression",
+    "title": "Teaching",
+    "section": "Correlation and Regression Methods",
+    "text": "Correlation and Regression Methods\nA foundation in the theory and application of correlation and regression methods. Students learn to specify, conduct, and interpret correlation analyses and regression models. Analyses and computing demonstrations use R.\n\n Fall 2026 syllabus  Fall 2025 syllabus"
+  },
+  {
+    "objectID": "teaching/index.html#r-simulation",
+    "href": "teaching/index.html#r-simulation",
+    "title": "Teaching",
+    "section": "Statistical Modeling and Simulation in R",
+    "text": "Statistical Modeling and Simulation in R\nAn advanced R course focuses on designing and implementing Monte Carlo simulation studies for methodological research (e.g., evaluating statistical methods) and empirical applications (e.g., conducting power analysis), debugging, functional and object-oriented programming, and an introduction to R package and Shiny app development with GitHub integration.\n\n Spring 2025 syllabus"
+  }
+]
