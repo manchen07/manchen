@@ -258,15 +258,31 @@ window.Quarto = {
 
 
 <p>My research focuses on developing and evaluating statistical methods to address methodological challenges that arise when applying meta-analytic techniques to real-world datasets, including dependent effect sizes, selective reporting and publication bias, and design-comparable effect sizes. I am also interested in statistical methods for single-case experimental designs.</p>
+<div class="mb-4">
+  <label for="publication-filter" class="visually-hidden">Filter publications</label>
+  <input id="publication-filter" type="search" class="form-control" placeholder="Search by title, author, journal, or year" aria-controls="listing-methodological listing-applied">
+  <p id="publication-filter-status" class="small text-muted mt-2" role="status"></p>
+</div>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const input = document.getElementById('publication-filter');
+  const status = document.getElementById('publication-filter-status');
+  input.addEventListener('input', function () {
+    const listings = ['listing-methodological', 'listing-applied'].map(
+      id => window['quarto-listings'][id]
+    );
+    const query = input.value.trim();
+    listings.forEach(listing => listing.search(query, [
+      'listing-title', 'listing-authors', 'listing-journal', 'listing-date'
+    ]));
+    const count = listings.reduce((total, listing) => total + listing.matchingItems.length, 0);
+    status.textContent = query ? `${count} publication${count === 1 ? '' : 's'} found across both sections.` : '';
+  });
+});
+</script>
 <section id="methodological-work" class="level2">
 <h2 class="anchored" data-anchor-id="methodological-work">Methodological work</h2>
 <div id="listing-methodological" class="quarto-listing quarto-listing-container-custom">
-<div class="listing-actions-group">
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
 <ul class="publication-list list">
 
   <li class="publication-entry" data-index="0" data-listing-date-sort="1792558800000">
@@ -426,12 +442,6 @@ window.Quarto = {
 <section id="applied-work" class="level2">
 <h2 class="anchored" data-anchor-id="applied-work">Applied work</h2>
 <div id="listing-applied" class="quarto-listing quarto-listing-container-custom">
-<div class="listing-actions-group">
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
 <ul class="publication-list list">
 
   <li class="publication-entry" data-index="0" data-listing-date-sort="1767247200000">
@@ -707,7 +717,7 @@ window.Quarto = {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/manchen07\.github\.io\/manchen\/");
+        var filterRegex = new RegExp("https:\/\/manchenqm\.com\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

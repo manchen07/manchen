@@ -4,7 +4,7 @@
 2. Fill in the title, date (`YYYY-MM-DD`), authors in their original order, and journal citation. Set `work-type: methodological` for methods development, evaluation, and tutorials, or `work-type: applied` for studies answering substantive research questions. Use these exact lowercase values so the paper appears in the intended section. Keep text in quotes. Escape an embedded double quote with a backslash, or use single quotes around the whole value.
 3. Replace the resource URLs. Delete any link you do not have; never leave `REPLACE-ME` in a published entry. You can add more links by repeating a `text`/`href` pair.
 4. Optionally add `abstract` for a collapsible abstract. Only add text you are permitted to republish.
-5. Save, then run `quarto render publications/index.qmd` or preview that page in RStudio. The page automatically discovers `papers/*.yml`, places each paper in its section, orders entries newest first within each section, and updates each section's filter.
+5. Save, then run `quarto render publications/index.qmd` or preview that page in RStudio. The page automatically discovers `papers/*.yml`, places each paper in its section, orders entries newest first within each section, and includes it in the shared filter above both sections.
 6. Commit the edited source files and rendered `docs/` output, then push to GitHub.
 
 Use one YAML file per paper. Each file starts with `- title:` (it contains a one-item list). Keep the indentation shown in the template. Remove a paper by moving its YAML file outside `papers/` and rendering again. The layout is in `_publications.ejs.md`; you do not need to edit it for new papers.

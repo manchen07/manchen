@@ -10,10 +10,11 @@ project:
     - software/index.qmd
   resources:
     - .nojekyll
+    - CNAME
 
 website:
   title: "Man Chen"
-  site-url: https://manchen07.github.io/manchen/
+  site-url: https://manchenqm.com/
   repo-url: https://github.com/manchen07/manchen
   navbar:
     background: light

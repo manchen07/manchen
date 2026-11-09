@@ -34,7 +34,9 @@ execute:
 
 I am a quantitative methodologist and assistant professor in the [Department of Educational Psychology](https://education.utexas.edu/departments/educational-psychology/) at [University of Texas at Austin](https://www.utexas.edu/).
 
-My research focuses on developing and evaluating statistical methods to address scientific questions in education and psychology. I am particularly interested in solving methodological challenges that arise when applying meta-analytic techniques to real-world datasets, including dependent effect sizes, selective reporting and publication bias, and design-comparable effect sizes.
+My research focuses on developing and evaluating statistical methods to address scientific questions in behavioral and social sciences. I am particularly interested in solving methodological challenges in the applications of meta-analyses in education and psychology, including dependent effect sizes, selective reporting and publication bias, and design-comparable effect sizes.
+
+**Prospective students:** I am accepting new doctoral students interested in quantitative methods, particularly meta-analysis, time-series analysis, and multilevel modeling. If your interests align with mine, please [contact me](mailto:man.chen@austin.utexas.edu) to discuss potential opportunities.
 
 ::::{.grid}
 
